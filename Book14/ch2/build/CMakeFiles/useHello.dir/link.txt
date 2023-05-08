@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/useHello.dir/src/use_hello.cpp.o  -o useHello -Wl,-rpath,/home/appz/Practice-Slambook14/Book14/ch2/lib ../lib/libhello_shared.so 
